@@ -1,0 +1,1 @@
+S.R., Balasundaram & Pal, Rajarshi & Kaliyannan, Suresh. (2022). A Stable Cryptographic Key Generation from Fingerprint Biometrics Using Gray Code for Secure Data Storage. International Journal of Information and Computer Security. 1. 1. 10.1504/IJICS.2022.10043107. 
